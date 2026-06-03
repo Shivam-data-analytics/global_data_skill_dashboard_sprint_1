@@ -10,7 +10,7 @@ The goal is to help aspiring Data Analysts, Data Scientists, Data Engineers, and
 
 ## 📸 Dashboard Preview
 
-![Dashboard Overview](images/Dashboard_full_view(2).png)
+![Dashboard Overview](dashboard/Dashboard_full_view(2).png)
 
 ---
 
