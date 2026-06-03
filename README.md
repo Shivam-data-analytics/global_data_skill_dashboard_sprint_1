@@ -375,18 +375,6 @@ I am always open to:
 - Learning Opportunities
 - Networking with Data Professionals
 
----
-
-# 📬 Contact
-
-### LinkedIn
-Add your LinkedIn profile URL here
-
-### GitHub
-Add your GitHub profile URL here
-
-### Email
-Add your professional email here
 
 ---
 
